@@ -1,0 +1,11 @@
+server:
+  port: 8093
+
+spring:
+  application:
+    name: product-discovery-engine
+
+logging:
+  level:
+    root: INFO
+    com.ritangkar.productdiscovery: INFO
